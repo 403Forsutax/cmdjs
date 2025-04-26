@@ -1,0 +1,12 @@
+{
+      "name": "commonjs-terminal",
+        "version": "1.0.0",
+          "description": "Terminal interaktif berbasis CommonJS",
+            "main": "cmd.js",
+              "scripts": {
+                  "start": "node cmd.js"
+                    },
+                      "author": "@kecee_pyrite",
+                        "license": "MIT",
+                          "dependencies": {}
+                          }
